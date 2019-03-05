@@ -1,50 +1,42 @@
 # Pengenalan-NodeJS
 
-Test
 
-![alt_text](https://github.com/maharani26/Pengenalan-NodeJS/blob/master/1.JPG)
-
-Hello Word
+#Hello Word
 
 ![alt_text](https://github.com/maharani26/Pengenalan-NodeJS/blob/master/2.JPG)
 
 
-Coding
-
-![alt_text](https://github.com/maharani26/Pengenalan-NodeJS/blob/master/3.JPG)
-
-
-Get
+#Get
 
 ![alt_text](https://github.com/maharani26/Pengenalan-NodeJS/blob/master/4.JPG)
 
 
-Post
+#Post
 
 ![alt_text](https://github.com/maharani26/Pengenalan-NodeJS/blob/master/5.JPG)
 
 
-Get Siswa
+#Get Siswa
 
 ![alt_text](https://github.com/maharani26/Pengenalan-NodeJS/blob/master/6.JPG)
 
 
-Post Siswa
+#Post Siswa
 
 ![alt_text](https://github.com/maharani26/Pengenalan-NodeJS/blob/master/7.JPG)
 
 
-Delete
+#Delete
 
 ![alt_text](https://github.com/maharani26/Pengenalan-NodeJS/blob/master/8.JPG)
 
 
-Put
+#Put
 
 ![alt_text](https://github.com/maharani26/Pengenalan-NodeJS/blob/master/9.JPG)
 
 
-CobaJS
+#CobaJS
 
-![alt_text](https://github.com/maharani26/Pengenalan-NodeJS/blob/master/10.JPG)
+![alt_text](https://github.com/maharani26/Pengenalan-NodeJS/blob/master/10.PNG)
 
